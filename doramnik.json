@@ -1,4 +1,5 @@
-{
-  "primary": "https://adrama.tv/api",
-  "backup": "https://api2.adrama.tv"
-}
+[
+  "https://api2.adrama.tv/",
+  "https://api2.r4vbcgn6keet7c2w.run/",
+  "https://api2.adrama.lol/"
+]
